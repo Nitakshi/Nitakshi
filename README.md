@@ -101,35 +101,5 @@
 
 ---
 
-### 📊 My Coding & Contribution Stats
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/nitakshi_azad_21/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&font=ubuntu&ext=contest" alt="LeetCode Stats" width="300"/>
-      </a><br/>
-      <sub><b>LeetCode Stats</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/n_azad" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&theme=dark&cache=0" alt="Codeforces Stats" width="300"/>
-      </a><br/>
-      <sub><b>Codeforces Stats</b></sub>
-    </td>  
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
-        <img src="https://gfgstatscard.vercel.app/nitaazad21?theme=dark" alt="GeeksforGeeks Stats" width="300"/>
-      </a><br/>
-      <sub><b>GeeksforGeeks Stats</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
 > 🌟 Thank you for visiting my profile!
