@@ -30,56 +30,52 @@
 
 ### 🖥️ Frontend Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <br/>JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  <br/>React
+  <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>React</b></sub>
 </p>
 
 ---
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
-  <br/>Node.js
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60" height="60" alt="Spring"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
-  <br/>Express
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <br/>Java
-</p>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60"/>
-  <br/>Spring
+  <sub><b>Node.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Express</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Java</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Spring</b></sub>
 </p>
 
 ---
 
 ### 💾 Databases
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  <br/>MongoDB
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <br/>MySQL
+  <sub><b>MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>MySQL</b></sub>
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  <br/>Git
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
 </p>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-  <br/>Postman
+  <sub><b>Git</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Postman</b></sub>
 </p>
 
 ---
