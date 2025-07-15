@@ -80,11 +80,11 @@
       <sub><b>LeetCode Stats</b></sub>
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/n_azad" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&amp;theme=dark" alt="Codeforces Stats" width="300"/>
-      </a><br/>
-      <sub><b>Codeforces Stats</b></sub>
-    </td>
+    <a href="https://codeforces.com/profile/n_azad" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&theme=dark&cache=0" alt="Codeforces Stats" width="300"/>
+    </a><br/>
+    <sub><b>Codeforces Stats</b></sub>
+    </td>  
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
         <img src="https://gfgstatscard.vercel.app/nitaazad21?theme=dark" alt="GeeksforGeeks Stats" width="300"/>
