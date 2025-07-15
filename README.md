@@ -11,20 +11,19 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/nitakshiazad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/n_azad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="36" height="36"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/nitakshi_azad_21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="36" height="36"/>
-  </a>
-</p>
+
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://linkedin.com/in/nitakshiazad" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/>
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <sub><b>LinkedIn</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
@@ -86,8 +85,6 @@
 </table>
 <br/><br/><br/><br/><br/><br/><br/>
 
----
-
 ### 🛠️ Tools & Platforms
 <table align="left">
   <tr>
@@ -101,6 +98,7 @@
     </td>
   </tr>
 </table>
+
 <br/><br/><br/><br/><br/><br/><br/>
 
 ---
