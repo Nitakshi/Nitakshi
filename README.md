@@ -5,7 +5,7 @@
 
 🌱 Currently learning **Node.js**  
 🧠 Exploring backend development  
-💬 I enjoy solving coding problems and building full‑stack applications  
+💬 Enjoy solving coding problems and building full‑stack applications  
 🎯 Always eager to learn new technologies and work on exciting projects
 
 ---
@@ -21,7 +21,7 @@
     </td>
   </tr>
 </table>
-<br/><br/>
+<br/><br/><br/>
 
 ---
 
