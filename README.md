@@ -56,28 +56,36 @@
 
 ---
 
+---
+
 <h3 align="center">📊 My Coding Stats</h3>
-<p align="center">
 
-<!-- GitHub contributions calendar -->
-<img src="https://ghchart.rshah.org/Nitakshi" alt="GitHub contributions chart" />
+<div align="center">
 
-<br /><br />
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/nitakshi_azad_21/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&font=ubuntu&ext=contest" alt="LeetCode Stats" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/n_azad" target="_blank">
+        <img src="https://cf.leed.at/n_azad?theme=dark" alt="Codeforces Stats" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
+        <img src="https://media.githubusercontent.com/media/sanchitvj/gfg-readme-stats/main/gfg_stats_rounded.svg?username=nitaazad21" alt="GFG Stats" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- LeetCode stats card -->
-<img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&font=ubuntu&ext=contest" alt="LeetCode Stats" />
+</div>
 
-<br /><br />
+---
 
-<!-- Codeforces rating & submission summary -->
-<img src="https://cf.leed.at/n_azad?color=dark" alt="Codeforces Rating Card" />
-
-<br /><br />
-
-<!-- GeeksforGeeks stats card -->
-<img src="https://geekflare.github.io/gfg-readme-stats/api?username=nitaazad21&theme=dracula" alt="GeeksforGeeks Stats" />
-
-</p>
 
 ---
 
