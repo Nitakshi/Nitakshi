@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/nitakshiazad" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/>
@@ -18,7 +18,7 @@
   <a href="https://codeforces.com/profile/n_azad" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/nitakshi_azad_21" target="_blank">
+  <a href="https://leetcode.com/nitakshi_azad_21" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
@@ -29,45 +29,62 @@
 ---
 
 ### 🖥️ Frontend Development
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/><br/>JavaScript</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/><br/>React</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <br/>JavaScript
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <br/>React
 </p>
 
 ---
 
 ### ⚙️ Backend Development
-
-<p align="left">
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/><br/>Node.js</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48"/><br/>Express</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/><br/>Java</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="48" height="48"/><br/>Spring</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+  <br/>Node.js
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60"/>
+  <br/>Express
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <br/>Java
+</p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60"/>
+  <br/>Spring
 </p>
 
 ---
 
 ### 💾 Databases
-
-<p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/><br/>MongoDB</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/><br/>MySQL</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
+  <br/>MongoDB
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <br/>MySQL
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms
-
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/><br/>Git</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/><br/>Postman</a>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+  <br/>Git
+</p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+  <br/>Postman
 </p>
 
 ---
 
-<h3 align="center">📊 My Coding & Contribution Stats</h3>
-
+### 📊 My Coding & Contribution Stats
 <div align="center">
 
 <table>
