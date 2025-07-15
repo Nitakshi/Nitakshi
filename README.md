@@ -27,12 +27,16 @@
 </p>
 
 ---
+---
 
 <h3 align="left">🖥️ Frontend Development</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
+
+---
+---
 
 <h3 align="left">⚙️ Backend Development</h3>
 <p align="left">
@@ -42,11 +46,17 @@
   <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
 </p>
 
+---
+---
+
 <h3 align="left">💾 Databases</h3>
 <p align="left">
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
+
+---
+---
 
 <h3 align="left">🛠️ Tools & Platforms</h3>
 <p align="left">
@@ -55,9 +65,6 @@
 </p>
 
 ---
-
----
-
 ---
 
 <h3 align="center">📊 My Coding & Contribution Stats</h3>
@@ -66,24 +73,31 @@
 
 <table>
   <tr>
+    <!-- GitHub Stats Card -->
     <td align="center">
       <a href="https://github.com/Nitakshi" target="_blank">
-        <img src="https://ghchart.rshah.org/Nitakshi" alt="GitHub Contributions" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Nitakshi&show_icons=true&theme=dark&hide=stars,issues&count_private=true" alt="GitHub Stats" width="300"/>
       </a><br/>
-      <sub><b>GitHub Contributions</b></sub>
+      <sub><b>GitHub Overview</b></sub>
     </td>
+
+    <!-- LeetCode Stats -->
     <td align="center">
       <a href="https://leetcode.com/nitakshi_azad_21/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&amp;font=ubuntu&amp;ext=contest" alt="LeetCode Stats" width="300"/>
+        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&font=ubuntu&ext=contest" alt="LeetCode Stats" width="300"/>
       </a><br/>
       <sub><b>LeetCode Stats</b></sub>
     </td>
+
+    <!-- Codeforces Stats -->
     <td align="center">
       <a href="https://codeforces.com/profile/n_azad" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&amp;theme=dark" alt="Codeforces Stats" width="300"/>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&theme=dark" alt="Codeforces Stats" width="300"/>
       </a><br/>
       <sub><b>Codeforces Stats</b></sub>
     </td>
+
+    <!-- GeeksforGeeks Stats -->
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
         <img src="https://gfgstatscard.vercel.app/nitaazad21?theme=dark" alt="GeeksforGeeks Stats" width="300"/>
@@ -95,6 +109,7 @@
 
 </div>
 
+---
 ---
 
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
