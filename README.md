@@ -28,43 +28,62 @@
 
 ---
 
-### 🖥️ Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="margin-right: 60px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React" style="margin-right: 60px;"/>
-</p>
-<p align="left">
-  <sub><b style="margin-right: 80px;">JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>React</b></sub>
-</p>
+<!-- 🌐 Frontend Development -->
+<h3 align="left">🖥️ Frontend Development</h3>
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" height="70" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/><br/><br/><br/><br/><br/><br/>
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" style="margin-right: 60px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express" style="margin-right: 60px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" style="margin-right: 60px;"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60" height="60" alt="Spring"/>
-</p>
-<p align="left">
-  <sub><b style="margin-right: 80px;">Node.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b style="margin-right: 80px;">Express</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b style="margin-right: 80px;">Java</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Spring</b></sub>
-</p>
+<!-- ⚙️ Backend Development -->
+<h3 align="left">⚙️ Backend Development</h3>
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="70" height="70" alt="Express"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="70" height="70" alt="Spring"/><br/>
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/><br/><br/><br/><br/><br/><br/>
 
-### 💾 Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB" style="margin-right: 60px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
-</p>
-<p align="left">
-  <sub><b style="margin-right: 80px;">MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>MySQL</b></sub>
-</p>
+<!-- 💾 Databases -->
+<h3 align="left">💾 Databases</h3>
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
