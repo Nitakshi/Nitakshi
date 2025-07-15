@@ -21,7 +21,8 @@
     </td>
   </tr>
 </table>
-<br/>
+<br/><br/>
+
 ---
 
 <!-- 🌐 Frontend Development -->
