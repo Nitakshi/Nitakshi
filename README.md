@@ -29,40 +29,40 @@
 ---
 
 ### 🖥️ Frontend Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="margin-right: 60px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React" style="margin-right: 60px;"/>
 </p>
-<p align="center">
-  <sub><b>JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <sub><b style="margin-right: 80px;">JavaScript</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>React</b></sub>
 </p>
 
 ---
 
 ### ⚙️ Backend Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" style="margin-right: 60px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express" style="margin-right: 60px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" style="margin-right: 60px;"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60" height="60" alt="Spring"/>
 </p>
-<p align="center">
-  <sub><b>Node.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Express</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Java</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <sub><b style="margin-right: 80px;">Node.js</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b style="margin-right: 80px;">Express</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b style="margin-right: 80px;">Java</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>Spring</b></sub>
 </p>
 
 ---
 
 ### 💾 Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB" style="margin-right: 60px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
 </p>
-<p align="center">
-  <sub><b>MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <sub><b style="margin-right: 80px;">MongoDB</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>MySQL</b></sub>
 </p>
 
