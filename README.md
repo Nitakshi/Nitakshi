@@ -67,39 +67,24 @@
 ---
 ---
 
----
-
 <h3 align="center">📊 My Coding & Contribution Stats</h3>
 
 <div align="center">
 
 <table>
   <tr>
-    <!-- GitHub Stats Card -->
-    <td align="center">
-      <a href="https://github.com/Nitakshi" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nitakshi&show_icons=true&theme=dark&hide=stars,issues&count_private=true" alt="GitHub Stats" width="300"/>
-      </a><br/>
-      <sub><b>GitHub Overview</b></sub>
-    </td>
-
-    <!-- LeetCode Stats -->
     <td align="center">
       <a href="https://leetcode.com/nitakshi_azad_21/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&font=ubuntu&ext=contest" alt="LeetCode Stats" width="300"/>
+        <img src="https://leetcard.jacoblin.cool/nitakshi_azad_21?theme=dark&amp;font=ubuntu&amp;ext=contest" alt="LeetCode Stats" width="300"/>
       </a><br/>
       <sub><b>LeetCode Stats</b></sub>
     </td>
-
-    <!-- Codeforces Stats -->
     <td align="center">
       <a href="https://codeforces.com/profile/n_azad" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&theme=dark" alt="Codeforces Stats" width="300"/>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=n_azad&amp;theme=dark" alt="Codeforces Stats" width="300"/>
       </a><br/>
       <sub><b>Codeforces Stats</b></sub>
     </td>
-
-    <!-- GeeksforGeeks Stats -->
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/nitaazad21" target="_blank">
         <img src="https://gfgstatscard.vercel.app/nitaazad21?theme=dark" alt="GeeksforGeeks Stats" width="300"/>
@@ -110,7 +95,6 @@
 </table>
 
 </div>
-
 ---
 ---
 
