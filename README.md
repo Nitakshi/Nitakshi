@@ -89,14 +89,19 @@
 ---
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
-</p>
-<p align="center">
-  <sub><b>Git</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Postman</b></sub>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70" height="70" alt="MongoDB"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="MySQL"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
