@@ -18,7 +18,6 @@
       <a href="https://linkedin.com/in/nitakshiazad" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <sub><b>LinkedIn</b></sub>
     </td>
   </tr>
 </table>
@@ -42,7 +41,7 @@
   </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- ⚙️ Backend Development -->
 <h3 align="left">⚙️ Backend Development</h3>
@@ -67,7 +66,7 @@
   </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- 💾 Databases -->
 <h3 align="left">💾 Databases</h3>
@@ -83,7 +82,7 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ### 🛠️ Tools & Platforms
 <table align="left">
@@ -99,7 +98,7 @@
   </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
