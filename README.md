@@ -3,7 +3,7 @@
 
 ---
 
-🌱 Currently learning **Node.js**  
+🌱 Currently learning **Node.js** and **Express.js**
 🧠 Exploring backend development  
 💬 Enjoy solving coding problems and building full‑stack applications  
 🎯 Always eager to learn new technologies and work on exciting projects
