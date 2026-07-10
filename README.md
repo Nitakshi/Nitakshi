@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitakshi Azad</h1>
-<h3 align="center">Final‑year Computer Science Engineering student at Chandigarh University</h3>
-
+<h3 align="center">Full Stack Developer
 ---
 
 🌱 Currently learning **Node.js** and **Express.js**
